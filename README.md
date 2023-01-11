@@ -38,7 +38,7 @@ This Bot is Created by Hentairobot, If your kanging this without fork at least g
 
 ### Support
 <p>
-<a href="https://t.me/ygmuteebabi"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Alex on Telegram" /> </a><br>
+<a href="https://t.me/ygmuteebabi"> <img src="https://img.shields.io/badge/Alex-Ex-blue?&logo=telegram" alt="Alex on Telegram" /> </a><br>
 <a href="https://t.me/ygmuteebabi"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/ygmuteebabi"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
